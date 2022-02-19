@@ -59,7 +59,7 @@ It will probably work with other configurations but they haven't been tested.
 
 ## Building
 
-This plugin builds using Maven. It has been tested with Maven 3.2.3 and 3.5.2.
+This plugin builds using Maven. It has been tested with Maven 3.2.3, 3.2.5, 3.5.2, and 3.8.4.
 
 With Maven on your path, execute `mvn package` from the root of the repository. The target
 folder will contain the resulting jar file.
